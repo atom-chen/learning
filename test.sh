@@ -1,1 +1,2 @@
 a=$PWD
+b=$echo
